@@ -82,27 +82,17 @@
 
 ---
 
-## 📈 Contribution Graph (Always Works ✅)
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/dhanush-ts" alt="GitHub Contributions Chart" />
-</p>
-
----
-
 ## 🧩 Problem Solving
 
-### LeetCode Stats
-<p align="center">
-  <a href="https://leetcode.com/u/tsdhanush169/">
-    <img src="https://leetcard.jacoblin.cool/tsdhanush169?theme=dark&ext=heatmap" alt="LeetCode Profile" width="70%"/>
-  </a>
-</p>
+### Hacker Rank
 
-### GeeksforGeeks Stats
+</a>
 <p align="center">
-  <a href="https://www.geeksforgeeks.org/user/tsdhanuzekk/">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=tsdhanuzekk" alt="GFG stats"/>
+  <a href="https://www.hackerrank.com/profile/keerthivasann140" target="_blank">
+    <img src="./assets/sql-gold.png" alt="HackerRank SQL Gold" width="120"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/keerthivasann140" target="_blank">
+    <img src="./assets/python-gold.png" alt="HackerRank Python Gold" width="120"/>
   </a>
 </p>
 
@@ -111,9 +101,11 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/dhanush-ts"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/tsdhanush169/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.geeksforgeeks.org/user/tsdhanuzekk/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://github.com/Keerthivasan-cpu"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+ <a href="https://www.hackerrank.com/profile/keerthivasann140">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+  <a href="https://www.linkedin.com/in/keerthivasan140/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
