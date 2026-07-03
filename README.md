@@ -97,7 +97,7 @@
  <a href="https://www.hackerrank.com/profile/keerthivasann140">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
-  <a href="https://www.linkedin.com/in/keerthivasan140/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/keerthivasan-l-93b0b3299/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
