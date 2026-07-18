@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/dhanush-ts"><img src="https://img.shields.io/github/followers/Keerthivasan-cpu?label=Followers&style=for-the-badge" /></a>
-  <a href="https://github.com/dhanush-ts"><img src="https://komarev.com/ghpvc/?username=Keerthivasan-cpu&style=for-the-badge&color=blue" /></a>
+  <a href="https://github.com/Keerthivasan-cpu"><img src="https://img.shields.io/github/followers/Keerthivasan-cpu?label=Followers&style=for-the-badge" /></a>
+  <a href="https://github.com/Keerthivasan-cpu"><img src="https://komarev.com/ghpvc/?username=Keerthivasan-cpu&style=for-the-badge&color=blue" /></a>
 </p>
 
 ---
