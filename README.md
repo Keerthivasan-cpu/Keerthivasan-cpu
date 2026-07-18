@@ -104,3 +104,7 @@
 
 ⭐ Thank you for visiting my profile! Let's connect and build something awesome together 😊 
 I want same with edit my name and about us
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100" alt="Profile footer wave"/>
+</p>
