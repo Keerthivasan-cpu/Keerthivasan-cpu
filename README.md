@@ -57,6 +57,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+
 # 🚀 GitHub Analytics Dashboard
 <p align="center">
   <img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Keerthivasan-cpu&theme=radical" />
