@@ -14,17 +14,9 @@
   <a href="https://github.com/Keerthivasan-cpu"><img src="https://komarev.com/ghpvc/?username=Keerthivasan-cpu&style=for-the-badge&color=blue" /></a>
 </p>
 
----
-
 ## 👨🏻‍💻 About Me
 
-- 📊 Aspiring **Data Analyst** passionate about transforming raw data into meaningful business insights.
-- 🎨 Passionate **UI/UX Designer** creating intuitive and user-centric digital experiences with Figma.
-- 💻 Currently exploring **Full-Stack Development** while strengthening both front-end and back-end skills.
-- 🚀 Enthusiastic about participating in **Hackathons**, solving real-world challenges, and building impactful applications.
-- 🌱 Continuously learning **Data Science, Web Technologies, and Emerging AI Tools**.
-- ⚡ Tech enthusiast who loves exploring new technologies and turning ideas into innovative solutions.
-
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keerthivasan-cpu/Keerthivasan-cpu/main/dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keerthivasan-cpu/Keerthivasan-cpu/main/light.svg"> <img alt="Keerthivasan L." src="https://raw.githubusercontent.com/Keerthivasan-cpu/Keerthivasan-cpu/main/light.svg"> </picture>
 ---
 
 ## 🛠️ My Tech Stack
@@ -95,3 +87,69 @@ I want same with edit my name and about us
 </p>
 
 
+
+
+
+
+<h1 align="center">
+  <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" width="35" height="35" alt="wave" />
+  Hi, I'm <strong>Keerthivasan</strong> 👋
+  <img src="https://i.ibb.co/FLs3HL9K/giphy.gif" width="35" height="35" alt="wave" />
+</h1>
+
+<p align="center">
+🚀 Aspiring Data Analyst | UI/UX Designer | Full-Stack Developer journey 💡
+</p>
+
+<p align="center">
+  <a href="https://github.com/Keerthivasan-cpu">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/Keerthivasan-cpu?label=Followers&style=for-the-badge&color=7C3AED&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/Keerthivasan-cpu?label=Followers&style=for-the-badge&color=2563EB&logoColor=black">
+      <img src="https://img.shields.io/github/followers/Keerthivasan-cpu?label=Followers&style=for-the-badge&color=2563EB" alt="Followers" />
+    </picture>
+  </a>
+  <a href="https://github.com/Keerthivasan-cpu">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Keerthivasan-cpu&style=for-the-badge&color=7C3AED&label=Profile+Views">
+      <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Keerthivasan-cpu&style=for-the-badge&color=2563EB&label=Profile+Views">
+      <img src="https://komarev.com/ghpvc/?username=Keerthivasan-cpu&style=for-the-badge&color=2563EB&label=Profile+Views" alt="Profile views" />
+    </picture>
+  </a>
+</p>
+
+
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keerthivasan-cpu/Keerthivasan-cpu/main/flame-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keerthivasan-cpu/Keerthivasan-cpu/main/flame-light.svg">
+    <img src="https://raw.githubusercontent.com/Keerthivasan-cpu/Keerthivasan-cpu/main/flame-light.svg" width="35" height="35" alt="flame" />
+  </picture>
+  Hi, I'm <strong>Keerthivasan</strong> 👋
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Keerthivasan-cpu/Keerthivasan-cpu/main/flame-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Keerthivasan-cpu/Keerthivasan-cpu/main/flame-light.svg">
+    <img src="https://raw.githubusercontent.com/Keerthivasan-cpu/Keerthivasan-cpu/main/flame-light.svg" width="35" height="35" alt="flame" />
+  </picture>
+</h1>
+
+<p align="center">
+🚀 Aspiring Data Analyst | UI/UX Designer | Full-Stack Developer journey 💡
+</p>
+
+<p align="center">
+  <a href="https://github.com/Keerthivasan-cpu">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/followers/Keerthivasan-cpu?label=Followers&style=for-the-badge&color=7C3AED&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/Keerthivasan-cpu?label=Followers&style=for-the-badge&color=2563EB&logoColor=black">
+      <img src="https://img.shields.io/github/followers/Keerthivasan-cpu?label=Followers&style=for-the-badge&color=2563EB" alt="Followers" />
+    </picture>
+  </a>
+  <a href="https://github.com/Keerthivasan-cpu">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Keerthivasan-cpu&style=for-the-badge&color=7C3AED&label=Profile+Views">
+      <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Keerthivasan-cpu&style=for-the-badge&color=2563EB&label=Profile+Views">
+      <img src="https://komarev.com/ghpvc/?username=Keerthivasan-cpu&style=for-the-badge&color=2563EB&label=Profile+Views" alt="Profile views" />
+    </picture>
+  </a>
+</p>
